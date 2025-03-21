@@ -1,4 +1,4 @@
-Movie Rating Predictor
+ <u> Movie Rating Predictor <u> 
 1. Task Objectives -->
 → Predict Movie Ratings:
 • Build a model to estimate movie ratings using various attributes.
